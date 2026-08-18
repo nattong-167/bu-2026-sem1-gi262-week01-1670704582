@@ -370,7 +370,7 @@ MonoBehaviour:
   isSixOClock: 1
   password: Moon
   as03Number: 9
-  as04Number: 0
+  as04Number: 10
   as05GuessingNumber: 0
   as05RandomNumber: 0
   as06GuessingNumber: 0
