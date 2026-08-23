@@ -461,7 +461,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 564d477d91d5e844883e1c089ef0c83b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Assignment
-  as01Number: 0
+  as01Number: 10
   as02Day: 0
   as03InputPassword: 
   as03CorrectPassword: 
